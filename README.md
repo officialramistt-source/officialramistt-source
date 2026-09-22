@@ -43,7 +43,7 @@ current_focus: Enterprise Java/C++ Backend & ML/AI Engineering Internships
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>☕ GraphTrace</h4>
+      <h4><a href="https://github.com/officialramistt-source/GraphTrace">☕ GraphTrace</a></h4>
       <p><b>High-Performance Step-by-Step Graph Algorithm Streaming Engine</b></p>
       <ul>
         <li><b>Problem:</b> Inability to inspect internal algorithmic states (queues, heaps, visited sets) during execution.</li>
@@ -53,7 +53,7 @@ current_focus: Enterprise Java/C++ Backend & ML/AI Engineering Internships
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🗓️ WebPlanner</h4>
+      <h4><a href="https://github.com/officialramistt-source/WebPlanner">🗓️ WebPlanner</a></h4>
       <p><b>Adaptive Rolling-Window Task Management & Analytics Engine</b></p>
       <ul>
         <li><b>Problem:</b> Overdue task accumulation causing planning paralysis and backlog abandonment.</li>
@@ -65,7 +65,7 @@ current_focus: Enterprise Java/C++ Backend & ML/AI Engineering Internships
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧠 first-finch-nornickel</h4>
+      <h4><a href="https://github.com/officialramistt-source/first-finch-nornickel">🧠 first-finch-nornickel</a></h4>
       <p><b>Distributed Multi-Node GraphRAG Cluster for Enterprise Technical Retrieval</b></p>
       <ul>
         <li><b>Problem:</b> Vector search failures on relational questions across multi-thousand page industrial specifications.</li>
@@ -75,7 +75,7 @@ current_focus: Enterprise Java/C++ Backend & ML/AI Engineering Internships
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🎙️ VocalLens</h4>
+      <h4><a href="https://github.com/officialramistt-source/VocalLens">🎙️ VocalLens</a></h4>
       <p><b>Intelligent Speech Analytics & Call Script Compliance Scoring Engine</b></p>
       <ul>
         <li><b>Problem:</b> Manual call quality control is slow, subjective, and covers under 2% of customer interactions.</li>
@@ -87,7 +87,7 @@ current_focus: Enterprise Java/C++ Backend & ML/AI Engineering Internships
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📊 RelationalCraft</h4>
+      <h4><a href="https://github.com/officialramistt-source/RelationalCraft">📊 RelationalCraft</a></h4>
       <p><b>12-Project PostgreSQL Mastery, Algorithmic SQL & Optimization Suite</b></p>
       <ul>
         <li><b>Problem:</b> Suboptimal schema design, deadlocks, and slow queries under high concurrency.</li>
@@ -97,7 +97,7 @@ current_focus: Enterprise Java/C++ Backend & ML/AI Engineering Internships
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🏭 AgentForge</h4>
+      <h4><a href="https://github.com/officialramistt-source/AgentForge">🏭 AgentForge</a></h4>
       <p><b>Autonomous Multi-Agent B2B Orchestration & MCP Framework</b></p>
       <ul>
         <li><b>Problem:</b> Monolithic LLM prompts hallucinate and fail on complex, multi-step enterprise workflows.</li>
@@ -123,14 +123,15 @@ current_focus: Enterprise Java/C++ Backend & ML/AI Engineering Internships
 
 ---
 
-### 💻 Open Source C Libraries & Systems (School 21)
+### 💻 Open Source C Libraries & Cloud Automation
 
-| Repository | Focus & Highlights | Language |
+| Repository | Focus & Highlights | Language / Tech |
 | :--- | :--- | :---: |
 | [**s21_decimal**](https://github.com/officialramistt-source/Decimal) | High-precision 128-bit decimal arithmetic library handling financial computations without floating-point errors. | `C` |
 | [**s21_matrix**](https://github.com/officialramistt-source/Matrix) | Comprehensive linear algebra matrix manipulation library (determinants, inverse, algebraic complements). | `C` |
 | [**s21_string+**](https://github.com/officialramistt-source/String) | Complete POSIX string handling and `sprintf` formatting implementation from scratch. | `C` |
 | [**s21_simplebash**](https://github.com/officialramistt-source/SimpleBash) | Unix command-line utilities (`cat` and `grep`) with full flag parsing and POSIX regex support. | `C` |
+| [**EmailNotifier**](https://github.com/officialramistt-source/EmailNotifier) | Automated serverless daily focus digest and scheduling engine running on GitHub Actions cron runners. | `Python / CI/CD` |
 
 ---
 
