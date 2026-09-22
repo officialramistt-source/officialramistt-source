@@ -13,7 +13,7 @@
   &nbsp;
   <a href="https://github.com/officialramistt-source"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   &nbsp;
-  <a href="mailto:official.ramis.tt@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:officialramistt@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
@@ -114,5 +114,5 @@ current_focus: Enterprise Java/C++ Backend & ML/AI Engineering Internships
 ---
 
 <div align="center">
-  <sub>Designed with precision · Kazan, Russia · Open to Backend (.NET / Python) Junior & Internship roles</sub>
+  <sub>Designed with precision · Kazan, Russia · Open to Backend (Java / C++ / Python) & ML/AI Junior & Internship roles</sub>
 </div>
