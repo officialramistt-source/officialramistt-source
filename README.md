@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/ramis"><img src="https://img.shields.io/badge/Telegram-Direct_Message-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/gel_yee"><img src="https://img.shields.io/badge/Telegram-Direct_Message-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   &nbsp;
   <a href="https://github.com/officialramistt-source"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   &nbsp;
-  <a href="mailto:officialramistt@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:official.ramis.tt@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
