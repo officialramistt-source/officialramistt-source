@@ -43,45 +43,67 @@ current_focus: Enterprise Java/C++ Backend & ML/AI Engineering Internships
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>☕ GraphVisualizer & Server</h4>
-      <p><b>Step-by-Step Algorithm Execution & Streaming Engine</b></p>
+      <h4>☕ GraphTrace</h4>
+      <p><b>High-Performance Step-by-Step Graph Algorithm Streaming Engine</b></p>
       <ul>
-        <li><b>Problem:</b> Difficulty in debugging, validating, and visually tracing graph algorithm states and memory.</li>
+        <li><b>Problem:</b> Inability to inspect internal algorithmic states (queues, heaps, visited sets) during execution.</li>
         <li><b>Solution:</b> High-performance multithreaded server with real-time JSON streaming of BFS, DFS, and Dijkstra execution states.</li>
-        <li><b>Stack:</b> Java 17, C++, HTTP Server, Multithreading, JSON Serialization.</li>
-        <li><b>Highlight:</b> Zero external dependencies; benchmarked against C++ STL data structures.</li>
+        <li><b>Stack:</b> Java 17, Concurrency, Embedded HTTP Server, Zero External Dependencies, Vanilla JS Canvas.</li>
+        <li><b>Highlight:</b> Native memory tracking; step-by-step interactive time-travel playback.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🗓️ WebPlanner</h4>
       <p><b>Adaptive Rolling-Window Task Management & Analytics Engine</b></p>
       <ul>
-        <li><b>Problem:</b> Standard task managers lack dynamic rolling horizon tracking and clutter historical backlogs.</li>
-        <li><b>Solution:</b> Fullstack platform with continuous 7-day rolling window, Eisenhower matrix, and zero-latency localized persistence.</li>
-        <li><b>Stack:</b> C#, ASP.NET Core 8, EF Core, PostgreSQL, HostedServices, Modern Vanilla JS.</li>
-        <li><b>Highlight:</b> Clean REST API with DTO validation, zero N + 1 queries via <code>.Include()</code> projections.</li>
+        <li><b>Problem:</b> Overdue task accumulation causing planning paralysis and backlog abandonment.</li>
+        <li><b>Solution:</b> Dynamic 7-day rolling window horizon, Eisenhower matrix quad-split, and real-time execution analytics.</li>
+        <li><b>Stack:</b> Python, FastAPI, SQLite, Pydantic, High-Performance Vanilla JS (260+ KB).</li>
+        <li><b>Highlight:</b> Clean REST API with DTO validation, zero-latency localized persistence.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧠 Enterprise GraphRAG Assistant</h4>
-      <p><b>Event-Driven Knowledge Retrieval & Document Audit Pipeline</b></p>
+      <h4>🧠 first-finch-nornickel</h4>
+      <p><b>Distributed Multi-Node GraphRAG Cluster for Enterprise Technical Retrieval</b></p>
       <ul>
-        <li><b>Problem:</b> Information retrieval failures in multi-thousand page corporate technical specifications.</li>
-        <li><b>Solution:</b> Asynchronous document ingestion with semantic chunking, vector indexing, and RabbitMQ message broker.</li>
-        <li><b>Stack:</b> Python 3.11, FastStream, RabbitMQ, PostgreSQL (asyncpg), LLM API Routing, Docker.</li>
-        <li><b>Highlight:</b> Resilient Dead-Letter Queue (DLQ), automated retry policies, built for Nornickel AI Hackathon.</li>
+        <li><b>Problem:</b> Vector search failures on relational questions across multi-thousand page industrial specifications.</li>
+        <li><b>Solution:</b> Distributed 3-node mesh cluster combining Neo4j property graphs with ChromaDB semantic vector search.</li>
+        <li><b>Stack:</b> Python 3.11, Neo4j (Cypher), ChromaDB, FastAPI, Streamlit, Docker Compose.</li>
+        <li><b>Highlight:</b> Built for Nornickel AI Hackathon; algorithmic Trust Score hallucination validator.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>📊 PostgreSQL 12-Project Suite</h4>
-      <p><b>Advanced Relational Modeling, Optimization & PL/pgSQL</b></p>
+      <h4>🎙️ VocalLens</h4>
+      <p><b>Intelligent Speech Analytics & Call Script Compliance Scoring Engine</b></p>
       <ul>
-        <li><b>Problem:</b> Unoptimized SQL queries causing database CPU spikes and deadlocks under concurrency.</li>
+        <li><b>Problem:</b> Manual call quality control is slow, subjective, and covers under 2% of customer interactions.</li>
+        <li><b>Solution:</b> Automated speech processing pipeline auditing operator script adherence and emotional markers.</li>
+        <li><b>Stack:</b> Python, Whisper STT, Librosa, PyTorch, FastAPI, Docker.</li>
+        <li><b>Highlight:</b> 🟢 <b>6th Place in Online Round</b> at TechLab Moscow Hackathon; sub-200ms scoring latency.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📊 RelationalCraft</h4>
+      <p><b>12-Project PostgreSQL Mastery, Algorithmic SQL & Optimization Suite</b></p>
+      <ul>
+        <li><b>Problem:</b> Suboptimal schema design, deadlocks, and slow queries under high concurrency.</li>
         <li><b>Solution:</b> 12 production-grade database systems with 3NF/BCNF normalization, custom PL/pgSQL triggers, and audit trails.</li>
-        <li><b>Stack:</b> PostgreSQL, PL/pgSQL, EXPLAIN (ANALYZE, BUFFERS), Docker.</li>
-        <li><b>Highlight:</b> Solved Traveling Salesperson Problem (TSP) using pure recursive CTEs; tuned query cost by 4x–10x with B-Tree indexes.</li>
+        <li><b>Stack:</b> PostgreSQL 16, PL/pgSQL, EXPLAIN (ANALYZE, BUFFERS), Docker.</li>
+        <li><b>Highlight:</b> Solved Traveling Salesperson Problem (TSP) via recursive CTEs; tuned query cost by 4x–10x with B-Tree indexes.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏭 AgentForge</h4>
+      <p><b>Autonomous Multi-Agent B2B Orchestration & MCP Framework</b></p>
+      <ul>
+        <li><b>Problem:</b> Monolithic LLM prompts hallucinate and fail on complex, multi-step enterprise workflows.</li>
+        <li><b>Solution:</b> Modular multi-agent coordination pipeline with standardized Model Context Protocol (MCP) integrations.</li>
+        <li><b>Stack:</b> Python 3.11, MCP Tools, Multi-Agent Orchestration, REST Gateway, Long-Term Memory.</li>
+        <li><b>Highlight:</b> Independent verification agent loop validating outputs before delivery.</li>
       </ul>
     </td>
   </tr>
