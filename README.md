@@ -22,19 +22,27 @@
 
 ### ⚡ About Me
 
-```yaml
-name: Ramis Khayrutdinov
-location: Kazan, Russia (Open to Remote / Relocation)
-education:
-  university: Kazan Federal University (IVMIIT), Software Engineering (2nd Year, 2025–2029)
-  intensive: School 21 (Sberbank Campus) — C Track & SQL Bootcamp (12 Projects)
-interests: Backend Engineering (Java / C++), Machine Learning (NLP/GraphRAG/Speech), Database Optimization
-achievements:
-  - 6th Place in Online Round — TechLab Moscow Hackathon (Speech Analytics / Whisper ASR)
-  - Participant of In-Person Intensive — Roseltorg Candidates Smolensk ("44-FZ Procurement Arena")
-  - Participant — Nornickel AI Hackathon (Enterprise GraphRAG Knowledge Retrieval)
-current_focus: Enterprise Java/C++ Backend & ML/AI Engineering Internships
-```
+> **Backend & Machine Learning Engineer** specializing in high-throughput **Java 17**, **C++**, and distributed **AI systems**. Passionate about building robust software from first principles — from zero-dependency multithreaded servers to multi-node GraphRAG clusters.
+
+<p align="left">
+  <a href="https://github.com/officialramistt-source/GraphTrace"><img src="https://img.shields.io/badge/Java_17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17" /></a>
+  &nbsp;
+  <a href="https://github.com/officialramistt-source/Decimal"><img src="https://img.shields.io/badge/C++_17%2F20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
+  &nbsp;
+  <a href="https://github.com/officialramistt-source/WebPlanner"><img src="https://img.shields.io/badge/Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  &nbsp;
+  <a href="https://github.com/officialramistt-source/RelationalCraft"><img src="https://img.shields.io/badge/PostgreSQL_16-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+</p>
+
+* 🏛️ **University:** **Kazan Federal University (IVMIIT)**, Software Engineering (2nd Year, 2025–2029)
+* 🏫 **Intensive:** **School 21 (Sberbank Campus)** — C Systems Programming & SQL Bootcamp (12 Projects)
+* 📍 **Location:** Kazan, Russia • Open to Remote & Relocation
+* 🛠️ **Primary Stack:** **Java 17/21** (Core, Concurrency, JVM), **C++** (STL, RAII, Memory), **Python** (FastAPI, PyTorch), **PostgreSQL**
+* 🏆 **Verified Hackathons & Honors:**
+  * 🟢 **6th Place in Online Round** — TechLab Moscow Hackathon *(Speech Analytics & Whisper ASR)*
+  * 🟢 **Participant of In-Person Intensive** — Roseltorg Candidates Smolensk *(«44-FZ Procurement Arena»)*
+  * 🟢 **Participant** — Nornickel AI Hackathon *(Enterprise GraphRAG Knowledge Retrieval)*
+* 🎯 **Current Focus:** Junior / Intern Java & C++ Backend and Production ML Roles
 
 ---
 
