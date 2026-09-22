@@ -43,7 +43,7 @@ current_focus: Enterprise Java/C++ Backend & ML/AI Engineering Internships
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/officialramistt-source/GraphVisualizer">☕ GraphVisualizer & Server</a></h4>
+      <h4>☕ GraphVisualizer & Server</h4>
       <p><b>Step-by-Step Algorithm Execution & Streaming Engine</b></p>
       <ul>
         <li><b>Problem:</b> Difficulty in debugging, validating, and visually tracing graph algorithm states and memory.</li>
@@ -53,7 +53,7 @@ current_focus: Enterprise Java/C++ Backend & ML/AI Engineering Internships
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/officialramistt-source/WebPlanner">🗓️ WebPlanner</a></h4>
+      <h4>🗓️ WebPlanner</h4>
       <p><b>Adaptive Rolling-Window Task Management & Analytics Engine</b></p>
       <ul>
         <li><b>Problem:</b> Standard task managers lack dynamic rolling horizon tracking and clutter historical backlogs.</li>
@@ -65,7 +65,7 @@ current_focus: Enterprise Java/C++ Backend & ML/AI Engineering Internships
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/officialramistt-source/Enterprise_GraphRAG">🧠 Enterprise GraphRAG Assistant</a></h4>
+      <h4>🧠 Enterprise GraphRAG Assistant</h4>
       <p><b>Event-Driven Knowledge Retrieval & Document Audit Pipeline</b></p>
       <ul>
         <li><b>Problem:</b> Information retrieval failures in multi-thousand page corporate technical specifications.</li>
@@ -75,7 +75,7 @@ current_focus: Enterprise Java/C++ Backend & ML/AI Engineering Internships
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/officialramistt-source/SQL_Bootcamp_Showcase">📊 PostgreSQL 12-Project Suite</a></h4>
+      <h4>📊 PostgreSQL 12-Project Suite</h4>
       <p><b>Advanced Relational Modeling, Optimization & PL/pgSQL</b></p>
       <ul>
         <li><b>Problem:</b> Unoptimized SQL queries causing database CPU spikes and deadlocks under concurrency.</li>
@@ -98,6 +98,17 @@ current_focus: Enterprise Java/C++ Backend & ML/AI Engineering Internships
 | **Architecture & Messaging** | **RabbitMQ**, RESTful APIs, Event-Driven Architecture, Microservices, Multithreading |
 | **DevOps & Infrastructure** | **Docker**, **Docker Compose**, **Git** (Git Flow, rebase), **Linux** (Ubuntu/Debian, Bash), **GitHub Actions** (CI/CD) |
 | **AI & ML Integration** | GraphRAG (Neo4j + ChromaDB), Whisper STT (Speech Analytics), LLM Multi-Agent Pipelines, Hugging Face |
+
+---
+
+### 💻 Open Source C Libraries & Systems (School 21)
+
+| Repository | Focus & Highlights | Language |
+| :--- | :--- | :---: |
+| [**s21_decimal**](https://github.com/officialramistt-source/Decimal) | High-precision 128-bit decimal arithmetic library handling financial computations without floating-point errors. | `C` |
+| [**s21_matrix**](https://github.com/officialramistt-source/Matrix) | Comprehensive linear algebra matrix manipulation library (determinants, inverse, algebraic complements). | `C` |
+| [**s21_string+**](https://github.com/officialramistt-source/String) | Complete POSIX string handling and `sprintf` formatting implementation from scratch. | `C` |
+| [**s21_simplebash**](https://github.com/officialramistt-source/SimpleBash) | Unix command-line utilities (`cat` and `grep`) with full flag parsing and POSIX regex support. | `C` |
 
 ---
 
